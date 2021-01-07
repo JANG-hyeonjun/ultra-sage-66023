@@ -6,9 +6,7 @@ sections:
     image: images/다운로드.jfif
     image_alt: App preview
     title: 별 해는 바메 코딩 대회
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: 본 대회는 한국 외대 바이오 메디컬 공학부 학생들을 대상으로 진행되며 총 10문제가 출제 됩니다. 자세한 설명은 L
     actions:
       - label: Learn More
         url: /features
