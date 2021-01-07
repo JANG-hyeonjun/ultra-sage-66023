@@ -2,7 +2,7 @@
     "base_font": "fira-sans",
     "palette": "purple",
     "header": {
-        "logo_img_alt": "Logo",
+        "logo_img_alt": "",
         "has_nav": true,
         "nav_links": [
             {
