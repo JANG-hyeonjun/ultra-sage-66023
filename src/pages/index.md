@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/다운로드.jfif
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: 별 해는 바메 코딩 대회
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
