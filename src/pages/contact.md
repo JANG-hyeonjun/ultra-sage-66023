@@ -4,7 +4,7 @@ sections:
   - section_id: contact
     type: section_contact
     background: gray
-    title: 회원 가입 규정서
+    title: Contact
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
