@@ -15,7 +15,7 @@ sections:
         style: primary
         has_icon: true
       - label: 대회 규정
-        url: /feature
+        url: /features
         style: secondary
         has_icon: true
         icon: arrow-left
