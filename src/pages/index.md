@@ -13,7 +13,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-      - label: lorem-ipsum
+      - label: 대회 규정
         url: lorem-ipsum
         style: secondary
         has_icon: false
