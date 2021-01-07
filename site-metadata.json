@@ -41,8 +41,7 @@
                 "no_follow": false,
                 "type": "action"
             }
-        ],
-        "logo_img": "images/marvelous-kangaroo.png"
+        ]
     },
     "footer": {
         "sections": [
