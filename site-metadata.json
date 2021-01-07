@@ -1,6 +1,6 @@
 {
     "base_font": "fira-sans",
-    "palette": "blue",
+    "palette": "purple",
     "header": {
         "logo_img_alt": "Logo",
         "has_nav": true,
