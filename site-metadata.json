@@ -2,7 +2,7 @@
     "base_font": "fira-sans",
     "palette": "purple",
     "header": {
-        "logo_img_alt": "한국외국어 대학교",
+        "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
             {
